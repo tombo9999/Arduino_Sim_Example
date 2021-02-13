@@ -1,0 +1,2976 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC " -//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="176.44mm" height="116.84mm" viewBox="0 0 972.5 644  " ><g  id="Design">
+	<g id="COMPONENTS" >
+		<g   transform="translate(70,308) rotate(0)  scale(1)" >
+			<g id="ATMegaVBB.ATMega328Uno:5key" >
+				<g   transform="translate(-147,-91) rotate(0)  scale(0.5)" >
+					<g  >
+						<g   transform="translate(294,182) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4026key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="white" stroke-width="1" fill="rgb(0,120,125)" d="M0,0  l686,0  l14,14  l0,126  l28,28  l0,350  l-28,28  l0,28  l-14,14  l-686,0  l0,-588"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(497,476) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4027key" >
+								<path d="M0,0 l0,154 l504,0  l0,-154 l-504,0" fill-opacity="1" stroke="black" stroke-width="1" fill="rgb(32,32,32)"/>
+							</g>
+						</g>
+						<g   transform="translate(588,581) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4028key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="32" stroke="arduino" writing-mode="lr">SIM</text>
+							</g>
+						</g>
+						<g   transform="translate(504,490) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4029key" >
+								<path d="M0,0 l0,126 l490,0  l0,-126 l-490,0" fill-opacity="1" stroke="rgb(128,128,128)" stroke-width="3" fill="rgb(128,128,128)"/>
+							</g>
+						</g>
+						<g   transform="translate(714,560) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4030key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="black" stroke-width="1" fill="comment" d="M0,0  l0,0  l0,0  l0,0  l0,0"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(959,504) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:4031key" >
+								<circle cx="10" cy="10" r="10" fill-opacity="1" stroke="black" stroke-width="1" fill="rgb(32,32,32)"/>
+							</g>
+						</g>
+						<g   transform="translate(525,504) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4032key" >
+								<path d="M0,0 l0,98 l98,0  l0,-98 l-98,0" fill-opacity="1" stroke="rgb(32,32,32)" stroke-width="4" fill="white"/>
+							</g>
+						</g>
+						<g   transform="translate(511,490) rotate(0)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4033key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(504,490) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4034key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="black" stroke-width="1" fill="rgb(32,32,32)" d="M0,0  l7,7  l0,112  l-7,7  l0,-126"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(546,490) rotate(0)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4035key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(581,490) rotate(0)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4036key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(616,490) rotate(0)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4037key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(651,490) rotate(0)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4038key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(686,490) rotate(0)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4039key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(721,490) rotate(0)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4040key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(756,490) rotate(0)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4041key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(791,490) rotate(0)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4042key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(826,490) rotate(0)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4043key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(861,490) rotate(0)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4044key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(896,490) rotate(0)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4045key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(931,490) rotate(0)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4046key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(966,490) rotate(0)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4047key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(504,490) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4048key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="black" stroke-width="1" fill="rgb(32,32,32)" d="M0,0  l490,0  l-7,7  l-476,0  l-7,-7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(994,616) rotate(180)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4049key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="black" stroke-width="1" fill="rgb(64,64,64)" d="M0,0  l490,0  l-7,7  l-476,0  l-7,-7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(994,616) rotate(180)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4050key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="black" stroke-width="1" fill="rgb(64,64,64)" d="M0,0  l7,7  l0,112  l-7,7  l0,-126"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(994,532) rotate(0)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4051key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="black" stroke-width="1" fill="rgb(32,32,32)" d="M0,0 c-56,0 -56,84 0,84"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(539,616) rotate(180)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4052key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(574,616) rotate(180)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4053key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(609,616) rotate(180)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4054key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(644,616) rotate(180)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4055key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(679,616) rotate(180)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4056key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(714,616) rotate(180)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4057key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(749,616) rotate(180)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4058key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(784,616) rotate(180)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4059key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(819,616) rotate(180)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4060key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(854,616) rotate(180)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4061key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(889,616) rotate(180)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4062key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(924,616) rotate(180)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4063key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(959,616) rotate(180)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4064key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(994,616) rotate(180)  scale(0.5)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4065key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="grey" stroke-width="2" fill="darkgrey" d="M0,0  l0,-7  l14,-7  l0,-7  l28,0  l0,7  l14,7  l0,7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(462,210) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4067key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-20" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="20" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(490,210) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4068key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-19" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="19" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(462,462) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Oblong:4069key" >
+								<path d="M-90,-30 c-15,0 -30,15 -30,30 c0,15 15,30 30,30 h90 c15,0 30,-15 30,-30 c0,-15 -15,-30 -30,-30 h-90" fill-opacity="1" stroke="none" stroke-width="3" fill="rgb(0,152,158)"/>
+							</g>
+						</g>
+						<g   transform="translate(472.5,224) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4070key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" direction="rtl" writing-mode="horizontal-tb">SCL</text>
+							</g>
+						</g>
+						<g   transform="translate(500.5,224) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4071key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" direction="rtl" writing-mode="horizontal-tb">SDA</text>
+							</g>
+						</g>
+						<g   transform="translate(528.5,224) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4072key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" direction="rtl" writing-mode="horizontal-tb">AREF</text>
+							</g>
+						</g>
+						<g   transform="translate(518,210) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4073key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-33" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="33" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(546,210) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4074key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-28" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="28" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(574,210) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4075key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-14" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="14" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(556.5,224) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4076key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" direction="rtl" writing-mode="horizontal-tb">GND</text>
+							</g>
+						</g>
+						<g   transform="translate(584.5,224) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4077key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" direction="rtl" writing-mode="horizontal-tb">13</text>
+							</g>
+						</g>
+						<g   transform="translate(602,210) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4078key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-13" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="13" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(630,210) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4079key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-12" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="12" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(658,210) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4080key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-11" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="11" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(686,210) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4081key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-10" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="10" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(714,210) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4082key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-9" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="9" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(612.5,224) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4083key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" direction="rtl" writing-mode="horizontal-tb">12</text>
+							</g>
+						</g>
+						<g   transform="translate(640.5,224) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4084key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" direction="rtl" writing-mode="horizontal-tb">~11</text>
+							</g>
+						</g>
+						<g   transform="translate(668.5,224) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4085key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" direction="rtl" writing-mode="horizontal-tb">~10</text>
+							</g>
+						</g>
+						<g   transform="translate(696.5,224) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4086key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" direction="rtl" writing-mode="horizontal-tb">~9</text>
+							</g>
+						</g>
+						<g   transform="translate(724.5,224) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4087key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" direction="rtl" writing-mode="horizontal-tb">8</text>
+							</g>
+						</g>
+						<g   transform="translate(770,210) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4088key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-8" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="8" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(780.5,224) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4089key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" direction="rtl" writing-mode="horizontal-tb">7</text>
+							</g>
+						</g>
+						<g   transform="translate(798,210) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4090key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-7" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="7" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(826,210) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4091key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-6" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="6" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(854,210) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4092key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-5" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="5" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(808.5,224) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4093key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" direction="rtl" writing-mode="horizontal-tb">~6</text>
+							</g>
+						</g>
+						<g   transform="translate(836.5,224) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4094key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" direction="rtl" writing-mode="horizontal-tb">~5</text>
+							</g>
+						</g>
+						<g   transform="translate(864.5,224) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4095key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" direction="rtl" writing-mode="horizontal-tb">4</text>
+							</g>
+						</g>
+						<g   transform="translate(882,210) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4096key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-4" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="4" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(910,210) rotate(270)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4097key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-3" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="3" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(938,210) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4098key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-2" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="2" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(892.5,224) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4099key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" direction="rtl" writing-mode="horizontal-tb">~3</text>
+							</g>
+						</g>
+						<g   transform="translate(920.5,224) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4100key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" direction="rtl" writing-mode="horizontal-tb">2</text>
+							</g>
+						</g>
+						<g   transform="translate(948.5,224) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4101key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" direction="rtl" writing-mode="horizontal-tb">TX-&gt;1</text>
+							</g>
+						</g>
+						<g   transform="translate(966,210) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4102key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-1" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="1" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(976.5,224) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4103key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" direction="rtl" writing-mode="horizontal-tb">RX&lt;-0</text>
+							</g>
+						</g>
+						<g   transform="translate(966,742) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4104key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-20" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="20" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(938,742) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4105key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-19" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="19" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(910,742) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4106key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-18" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="18" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(882,742) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4107key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-17" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="17" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(854,742) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4108key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-16" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="16" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(826,742) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4109key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-15" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="15" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(770,742) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4110key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-26" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="26" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(742,742) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4111key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-28" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="28" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(714,742) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4112key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-28" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="28" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(686,742) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4113key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-29" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="29" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(658,742) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4114key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-30" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="30" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(630,742) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4115key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-31" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="31" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(602,742) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4116key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-32" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="32" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(574,742) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:4117key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-0" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(780.5,724.5) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4118key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" writing-mode="lr">Vin</text>
+							</g>
+						</g>
+						<g   transform="translate(752.5,724.5) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4119key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" writing-mode="lr">GND</text>
+							</g>
+						</g>
+						<g   transform="translate(721,724.5) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4120key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" writing-mode="lr">GND</text>
+							</g>
+						</g>
+						<g   transform="translate(696.5,724.5) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4121key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" writing-mode="lr">5V</text>
+							</g>
+						</g>
+						<g   transform="translate(668.5,724.5) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4122key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" writing-mode="lr">3.3V</text>
+							</g>
+						</g>
+						<g   transform="translate(640.5,724.5) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4123key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" writing-mode="lr">RESET</text>
+							</g>
+						</g>
+						<g   transform="translate(612.5,724.5) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4124key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="10" stroke="white" writing-mode="lr">IOREF</text>
+							</g>
+						</g>
+						<g   transform="translate(714,672) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4125key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="12" stroke="white" writing-mode="lr">POWER</text>
+							</g>
+						</g>
+						<g   transform="translate(644,644) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4126key" >
+								<path d="M0,0 l0,3 l140,0  l0,-3 l-140,0" fill-opacity="1" stroke="none" stroke-width="1" fill="white"/>
+							</g>
+						</g>
+						<g   transform="translate(882,672) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4127key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="12" stroke="white" writing-mode="lr">ANALOG IN</text>
+							</g>
+						</g>
+						<g   transform="translate(840,644) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4128key" >
+								<path d="M0,0 l0,3 l140,0  l0,-3 l-140,0" fill-opacity="1" stroke="none" stroke-width="1" fill="white"/>
+							</g>
+						</g>
+						<g   transform="translate(840,728) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4129key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="16" stroke="white" writing-mode="lr">A0</text>
+							</g>
+						</g>
+						<g   transform="translate(868,728) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4130key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="16" stroke="white" writing-mode="lr">A1</text>
+							</g>
+						</g>
+						<g   transform="translate(896,728) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4131key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="16" stroke="white" writing-mode="lr">A2</text>
+							</g>
+						</g>
+						<g   transform="translate(924,728) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4132key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="16" stroke="white" writing-mode="lr">A3</text>
+							</g>
+						</g>
+						<g   transform="translate(952,728) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4133key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="16" stroke="white" writing-mode="lr">A4</text>
+							</g>
+						</g>
+						<g   transform="translate(980,728) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4134key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="16" stroke="white" writing-mode="lr">A5</text>
+							</g>
+						</g>
+						<g   transform="translate(882,346.5) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Oblong:4135key" >
+								<path d="M-85,-35 c-17.5,0 -35,17.5 -35,35 c0,17.5 17.5,35 35,35 h85 c17.5,0 35,-17.5 35,-35 c0,-17.5 -17.5,-35 -35,-35 h-85" fill-opacity="1" stroke="white" stroke-width="1" fill="none"/>
+							</g>
+						</g>
+						<g   transform="translate(490,644) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:4136key" >
+								<circle cx="35" cy="35" r="35" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(0,152,158)"/>
+							</g>
+						</g>
+						<g   transform="translate(420,644) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:4137key" >
+								<circle cx="35" cy="35" r="35" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(0,152,158)"/>
+							</g>
+						</g>
+						<g   transform="translate(294,637) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4138key" >
+								<path d="M0,0 l0,98 l112,0  l0,-98 l-112,0" fill-opacity="1" stroke="black" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(266,630) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4139key" >
+								<path d="M0,0 l0,112 l42,0  l0,-112 l-42,0" fill-opacity="1" stroke="black" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(308,196) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4140key" >
+								<path d="M0,0 l0,70 l70,0  l0,-70 l-70,0" fill-opacity="1" stroke="none" stroke-width="1" fill="grey"/>
+							</g>
+						</g>
+						<g   transform="translate(392,196) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:4141key" >
+								<circle cx="18" cy="18" r="18" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(0,152,158)"/>
+							</g>
+						</g>
+						<g   transform="translate(980,350) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:4142key" >
+								<circle cx="18" cy="18" r="18" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(0,152,158)"/>
+							</g>
+						</g>
+						<g   transform="translate(980,658) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:4143key" >
+								<circle cx="18" cy="18" r="18" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(0,152,158)"/>
+							</g>
+						</g>
+						<g   transform="translate(420,728) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:4144key" >
+								<circle cx="18" cy="18" r="18" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(0,152,158)"/>
+							</g>
+						</g>
+						<g   transform="translate(476,728) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4145key" >
+								<path d="M0,0 l0,28 l70,0  l0,-28 l-70,0" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(0,152,158)"/>
+							</g>
+						</g>
+						<g   transform="translate(560,294) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4146key" >
+								<path d="M0,0 l0,3 l410,0  l0,-3 l-410,0" fill-opacity="1" stroke="none" stroke-width="1" fill="white"/>
+							</g>
+						</g>
+						<g   transform="translate(770,294) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4147key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="12" stroke="white" writing-mode="lr">DIGITAL (PWM~)</text>
+							</g>
+						</g>
+						<g   transform="translate(630,378) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:4148key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="white" stroke-width="10" fill="none" d="M0,0 c-14,0 -28,-14 -28,-28 M-28,-28 c0,-14 14,-28 28,-28 M0,-56 c14,0 28,14 42,28 M42,-28 c14,14 28,28 42,28 M84,0 c14,0 28,-14 28,-28 M112,-28 c0,-14 -14,-28 -28,-28 M84,-56 c-14,0 -28,14 -42,28 M42,-28 c-14,14 -28,28 -42,28"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(700,346.5) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4149key" >
+								<path d="M0,0 l0,6 l28,0  l0,-6 l-28,0" fill-opacity="1" stroke="none" stroke-width="1" fill="white"/>
+							</g>
+						</g>
+						<g   transform="translate(619.5,346.5) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4150key" >
+								<path d="M0,0 l0,6 l28,0  l0,-6 l-28,0" fill-opacity="1" stroke="none" stroke-width="1" fill="white"/>
+							</g>
+						</g>
+						<g   transform="translate(710.5,336) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4151key" >
+								<path d="M0,0 l0,28 l6,0  l0,-28 l-6,0" fill-opacity="1" stroke="none" stroke-width="1" fill="white"/>
+							</g>
+						</g>
+						<g   transform="translate(770,385) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4152key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="40" stroke="white" writing-mode="lr">UNO</text>
+							</g>
+						</g>
+						<g   transform="translate(322,210) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:4153key" >
+								<circle cx="21" cy="21" r="21" fill-opacity="1" stroke="black" stroke-width="1" fill="brown"/>
+							</g>
+						</g>
+						<g   transform="translate(406,364) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4154key" >
+								<path d="M0,0 l0,56 l56,0  l0,-56 l-56,0" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(0,152,158)"/>
+							</g>
+						</g>
+						<g   transform="translate(560,322) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Oblong:4155key" >
+								<path d="M-36,-12 c-6,0 -12,6 -12,12 c0,6 6,12 12,12 h36 c6,0 12,-6 12,-12 c0,-6 -6,-12 -12,-12 h-36" fill-opacity="1" stroke="none" stroke-width="3" fill="rgb(0,152,158)"/>
+							</g>
+						</g>
+						<g   transform="translate(560,378) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Oblong:4156key" >
+								<path d="M-36,-12 c-6,0 -12,6 -12,12 c0,6 6,12 12,12 h36 c6,0 12,-6 12,-12 c0,-6 -6,-12 -12,-12 h-36" fill-opacity="1" stroke="none" stroke-width="3" fill="rgb(0,152,158)"/>
+							</g>
+						</g>
+						<g   transform="translate(560,406) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Oblong:4157key" >
+								<path d="M-36,-12 c-6,0 -12,6 -12,12 c0,6 6,12 12,12 h36 c6,0 12,-6 12,-12 c0,-6 -6,-12 -12,-12 h-36" fill-opacity="1" stroke="none" stroke-width="3" fill="rgb(0,152,158)"/>
+							</g>
+						</g>
+						<g   transform="translate(532,311.5) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4158key" >
+								<path d="M0,0 l0,20 l21,0  l0,-20 l-21,0" fill-opacity="1" stroke="none" stroke-width="1" fill="#A4C639"/>
+							</g>
+						</g>
+						<g   transform="translate(532,367.5) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4159key" >
+								<path d="M0,0 l0,20 l21,0  l0,-20 l-21,0" fill-opacity="1" stroke="none" stroke-width="1" fill="#A4C639"/>
+							</g>
+						</g>
+						<g   transform="translate(532,395.5) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4160key" >
+								<path d="M0,0 l0,20 l21,0  l0,-20 l-21,0" fill-opacity="1" stroke="none" stroke-width="1" fill="#A4C639"/>
+							</g>
+						</g>
+						<g   transform="translate(945,399) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Oblong:4161key" >
+								<path d="M-36,-12 c-6,0 -12,6 -12,12 c0,6 6,12 12,12 h36 c6,0 12,-6 12,-12 c0,-6 -6,-12 -12,-12 h-36" fill-opacity="1" stroke="none" stroke-width="3" fill="rgb(0,152,158)"/>
+							</g>
+						</g>
+						<g   transform="translate(917,388.5) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4162key" >
+								<path d="M0,0 l0,20 l21,0  l0,-20 l-21,0" fill-opacity="1" stroke="none" stroke-width="1" fill="#A4C639"/>
+							</g>
+						</g>
+						<g   transform="translate(959,413) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4163key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="12" stroke="white" writing-mode="lr">ON</text>
+							</g>
+						</g>
+						<g   transform="translate(210,294) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4164key" >
+								<path d="M0,0 l0,126 l168,0  l0,-126 l-168,0" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(128,128,128)"/>
+							</g>
+						</g>
+						<g   transform="translate(476,420) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4165key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="12" stroke="white" writing-mode="lr">RX</text>
+							</g>
+						</g>
+						<g   transform="translate(476,392) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4166key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="12" stroke="white" writing-mode="lr">TX</text>
+							</g>
+						</g>
+						<g   transform="translate(476,336) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4167key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="12" stroke="white" writing-mode="lr">L</text>
+							</g>
+						</g>
+						<g   transform="translate(350,518) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4168key" >
+								<path d="M0,0 l0,98 l56,0  l0,-98 l-56,0" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(0,152,158)"/>
+							</g>
+						</g>
+						<g   transform="translate(427,539) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Oblong:4169key" >
+								<path d="M-38,-10 c-5,0 -10,5 -10,10 c0,5 5,10 10,10 h38 c5,0 10,-5 10,-10 c0,-5 -5,-10 -10,-10 h-38" fill-opacity="1" stroke="none" stroke-width="3" fill="rgb(0,152,158)"/>
+							</g>
+						</g>
+						<g   transform="translate(427,567) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Oblong:4170key" >
+								<path d="M-38,-10 c-5,0 -10,5 -10,10 c0,5 5,10 10,10 h38 c5,0 10,-5 10,-10 c0,-5 -5,-10 -10,-10 h-38" fill-opacity="1" stroke="none" stroke-width="3" fill="rgb(0,152,158)"/>
+							</g>
+						</g>
+						<g   transform="translate(427,595) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Oblong:4171key" >
+								<path d="M-38,-10 c-5,0 -10,5 -10,10 c0,5 5,10 10,10 h38 c5,0 10,-5 10,-10 c0,-5 -5,-10 -10,-10 h-38" fill-opacity="1" stroke="none" stroke-width="3" fill="rgb(0,152,158)"/>
+							</g>
+						</g>
+						<g   transform="translate(336,532) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:4172key" >
+								<path d="M0,0 l0,70 l56,0  l0,-70 l-56,0" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(0,152,158)"/>
+							</g>
+						</g>
+						<g   transform="translate(658,462) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4173key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="14" stroke="white" writing-mode="lr">www.virtualbreadboard.com</text>
+							</g>
+						</g>
+						<g   transform="translate(630,588) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:4174key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="courier new" font-size="36" stroke="white" writing-mode="lr">ATMega328p</text>
+							</g>
+						</g>
+						<g   transform="translate(539,518) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Image:4175key"  stroke="black"  stroke-width="1" >
+								<image orientation="0" x="0" y="0" width="70" height="70" href="data:image/png;base64, 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"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g   transform="translate(28,14) rotate(0)  scale(1)" >
+			<g id="com.virtualbreadboard.sim.components.display.lcd.HD44780V:6key" >
+				<g   transform="translate(-80.5,-14) rotate(0)  scale(0.25)" >
+					<g  >
+						<g   transform="translate(322,56) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:399key" >
+								<path d="M0,0 l0,714 l1610,0  l0,-714 l-1610,0" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(32,128,48)"/>
+							</g>
+						</g>
+						<g   transform="translate(462,140) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:401key" >
+								<path d="M0,0 l0,504 l1316,0  l0,-504 l-1316,0" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(48,48,48)"/>
+							</g>
+						</g>
+						<g   transform="translate(1722,196) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Oblong:402key" >
+								<path d="M-1233,-17 c-8.5,0 -17,8.5 -17,17 c0,8.5 8.5,17 17,17 h1233 c8.5,0 17,-8.5 17,-17 c0,-8.5 -8.5,-17 -17,-17 h-1233" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(32,32,32)"/>
+							</g>
+						</g>
+						<g   transform="translate(1715,203) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Oblong:403key" >
+								<path d="M-1220,-10 c-5,0 -10,5 -10,10 c0,5 5,10 10,10 h1220 c5,0 10,-5 10,-10 c0,-5 -5,-10 -10,-10 h-1220" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+							</g>
+						</g>
+						<g   transform="translate(1722,602) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Oblong:404key" >
+								<path d="M-1233,-17 c-8.5,0 -17,8.5 -17,17 c0,8.5 8.5,17 17,17 h1233 c8.5,0 17,-8.5 17,-17 c0,-8.5 -8.5,-17 -17,-17 h-1233" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(32,32,32)"/>
+							</g>
+						</g>
+						<g   transform="translate(1715,609) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Oblong:405key" >
+								<path d="M-1220,-10 c-5,0 -10,5 -10,10 c0,5 5,10 10,10 h1220 c5,0 10,-5 10,-10 c0,-5 -5,-10 -10,-10 h-1220" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+							</g>
+						</g>
+						<g   transform="translate(532,238) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:406key" >
+								<path d="M0,0 l0,308 l1162,0  l0,-308 l-1162,0" fill-opacity="1" stroke="none" stroke-width="1" fill="#789A0D"/>
+							</g>
+						</g>
+						<g   transform="translate(1050,728) rotate(0)  scale(4)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:407key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-1" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="1" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(1036,700) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.Text:408key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="courier new" font-size="12" stroke="white" writing-mode="lr">E</text>
+							</g>
+						</g>
+						<g   transform="translate(1106,728) rotate(0)  scale(4)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:409key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-2" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="2" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(1078,700) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.Text:410key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="courier new" font-size="12" stroke="white" writing-mode="lr">RS</text>
+							</g>
+						</g>
+						<g   transform="translate(1162,728) rotate(0)  scale(4)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:411key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-3" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="3" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(1134,700) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.Text:412key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="courier new" font-size="12" stroke="white" writing-mode="lr">R/W</text>
+							</g>
+						</g>
+						<g   transform="translate(1330,728) rotate(0)  scale(4)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:413key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-4" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="4" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(1302,700) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.Text:414key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="courier new" font-size="12" stroke="white" writing-mode="lr">D0</text>
+							</g>
+						</g>
+						<g   transform="translate(1358,700) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.Text:415key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="courier new" font-size="12" stroke="white" writing-mode="lr">D1</text>
+							</g>
+						</g>
+						<g   transform="translate(1386,728) rotate(0)  scale(4)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:416key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-5" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="5" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(1442,728) rotate(0)  scale(4)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:417key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-6" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="6" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(1498,728) rotate(0)  scale(4)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:418key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-7" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="7" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(1554,728) rotate(0)  scale(4)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:419key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-8" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="8" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(1610,728) rotate(0)  scale(4)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:420key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-9" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="9" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(1666,728) rotate(0)  scale(4)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:421key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-10" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="10" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(1414,700) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.Text:422key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="courier new" font-size="12" stroke="white" writing-mode="lr">D2</text>
+							</g>
+						</g>
+						<g   transform="translate(1470,700) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.Text:423key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="courier new" font-size="12" stroke="white" writing-mode="lr">D3</text>
+							</g>
+						</g>
+						<g   transform="translate(1526,700) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.Text:424key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="courier new" font-size="12" stroke="white" writing-mode="lr">D4</text>
+							</g>
+						</g>
+						<g   transform="translate(1582,700) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.Text:425key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="courier new" font-size="12" stroke="white" writing-mode="lr">D5</text>
+							</g>
+						</g>
+						<g   transform="translate(1638,700) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.Text:426key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="courier new" font-size="12" stroke="white" writing-mode="lr">D6</text>
+							</g>
+						</g>
+						<g   transform="translate(1722,728) rotate(0)  scale(4)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:427key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-11" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="11" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(1694,700) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.Text:428key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="courier new" font-size="12" stroke="white" writing-mode="lr">D7</text>
+							</g>
+						</g>
+						<g   transform="translate(336,70) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:429key" >
+								<circle cx="42" cy="42" r="42" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(154,145,108)"/>
+							</g>
+						</g>
+						<g   transform="translate(350,84) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:430key" >
+								<circle cx="28" cy="28" r="28" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(204,204,204)"/>
+							</g>
+						</g>
+						<g   transform="translate(336,637) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:431key" >
+								<circle cx="42" cy="42" r="42" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(154,145,108)"/>
+							</g>
+						</g>
+						<g   transform="translate(350,651) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:432key" >
+								<circle cx="28" cy="28" r="28" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(204,204,204)"/>
+							</g>
+						</g>
+						<g   transform="translate(1827,637) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:433key" >
+								<circle cx="42" cy="42" r="42" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(154,145,108)"/>
+							</g>
+						</g>
+						<g   transform="translate(1841,651) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:434key" >
+								<circle cx="28" cy="28" r="28" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(204,204,204)"/>
+							</g>
+						</g>
+						<g   transform="translate(1834,70) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:435key" >
+								<circle cx="42" cy="42" r="42" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(154,145,108)"/>
+							</g>
+						</g>
+						<g   transform="translate(1848,84) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:436key" >
+								<circle cx="28" cy="28" r="28" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(204,204,204)"/>
+							</g>
+						</g>
+						<g   transform="translate(413,308) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:437key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(48,48,48)" d="M0,0  l0,-126  l14,0  l28,-28  l0,-14  l14,0  l0,504  l-14,0  l0,-14  l-28,-28  l-14,0  l0,-126 M0,168 c14,0 28,-14 28,-28 M28,140  l0,-112 M28,28 c0,-14 -14,-28 -28,-28"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(532,546) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:438key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="none" stroke-width="1" fill="#789A0D" d="M0,0  l28,0  l0,-308 M28,-308  l-28,0 M0,-308 c-14,0 -28,14 -28,28 M-28,-280  l0,252 M-28,-28 c0,14 14,28 28,28"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(1827,476) rotate(180)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:439key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(48,48,48)" d="M0,0  l0,-126  l14,0  l28,-28  l0,-14  l14,0  l0,504  l-14,0  l0,-14  l-28,-28  l-14,0  l0,-126 M0,168 c14,0 28,-14 28,-28 M28,140  l0,-112 M28,28 c0,-14 -14,-28 -28,-28"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(1694,238) rotate(180)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:440key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="none" stroke-width="1" fill="#789A0D" d="M0,0  l28,0  l0,-308 M28,-308  l-28,0 M0,-308 c-14,0 -28,14 -28,28 M-28,-280  l0,252 M-28,-28 c0,14 14,28 28,28"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g  >
+					<text x="56" y="70" width="0" font-family="Assets/Fonts/hd44780.ttf#HD44780" font-size="12" stroke="rgb(0,32,0)" dynamic="true" writing-mode="lr">Liquid</text>
+					<text x="56" y="100.800003051758" width="0" font-family="Assets/Fonts/hd44780.ttf#HD44780" font-size="12" stroke="rgb(0,32,0)" dynamic="true" writing-mode="lr">Crystal</text>
+				</g>
+				<g   transform="translate(210,30.7999992370605) rotate(0)  scale(1)" >
+					<line x1="56" y1="73.3600006103516" x2="68" y2="73.3600006103516" stroke="rgb(0,32,0)" stroke-width="2"/>
+				</g>
+			</g>
+		</g>
+		<g   transform="translate(798,350) rotate(0)  scale(1)" >
+			<g id="HC-SR04.VBBComponent:7key" >
+				<g   transform="translate(-224,-238) rotate(0)  scale(0.5)" >
+					<g id="COMPONENTS" >
+						<g   transform="translate(238,-70) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:8key" >
+								<path d="M0,0 l0,308 l504,0  l0,-308 l-504,0" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(192,192,192)"/>
+							</g>
+						</g>
+						<g   transform="translate(490,238) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:10key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="none" stroke-width="1" fill="brown" d="M0,0  l-252,0  l252,-154  l252,154  l-252,0"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(252,252) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:13key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="none" stroke-width="1" fill="#789A0D" d="M0,0  l476,0 M476,0 c14,0 28,14 28,28 M504,28  l0,196 M504,224 c0,14 -14,28 -28,28 M476,252  l-476,0 M0,252 c-14,0 -28,-14 -28,-28 M-28,224  l0,-196 M-28,28 c0,-14 14,-28 28,-28"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(525,287) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Oblong:20key" >
+								<path d="M-75,-25 c-12.5,0 -25,12.5 -25,25 c0,12.5 12.5,25 25,25 h75 c12.5,0 25,-12.5 25,-25 c0,-12.5 -12.5,-25 -25,-25 h-75" fill-opacity="1" stroke="none" stroke-width="1" fill="#A4C639"/>
+							</g>
+						</g>
+						<g   transform="translate(448,476) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:21key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-1" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="1" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(241.5,392) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:22key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(64,96,64)" d="M0,0 c0,-133 189,-133 189,0"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(238,311.5) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:23key" >
+								<circle cx="98" cy="98" r="98" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(164,164,164)"/>
+							</g>
+						</g>
+						<g   transform="translate(255.5,332.5) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:24key" >
+								<circle cx="80" cy="80" r="80" fill-opacity="1" stroke="black" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(273,343) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:25key" >
+								<circle cx="64" cy="64" r="64" fill-opacity="1" stroke="none" stroke-width="1" fill="goldenrod"/>
+							</g>
+						</g>
+						<g   transform="translate(287,357) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:26key" >
+								<circle cx="50" cy="50" r="50" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+							</g>
+						</g>
+						<g   transform="translate(287,360.5) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:27key" >
+								<circle cx="50" cy="50" r="50" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(224,224,224)"/>
+							</g>
+						</g>
+						<g   transform="translate(287,371) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:28key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(308,371) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:29key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(350,371) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:30key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(329,371) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:31key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(329,392) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:32key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(266,392) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:33key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.1" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(287,392) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:34key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(308,392) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:35key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(329,413) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:36key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(266,413) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:37key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.1" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(287,413) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:38key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(308,413) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:39key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(329,434) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:40key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(266,434) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:41key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.1" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(287,434) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:42key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(308,434) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:43key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(350,455) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:44key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(287,455) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:45key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(308,455) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:46key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(329,455) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:47key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(308,476) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:48key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(329,476) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:49key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(350,476) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:50key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(308,350) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:51key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(329,350) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:52key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(350,350) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:53key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(350,392) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:54key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(350,413) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:55key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(350,434) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:56key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(371,371) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:57key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(371,392) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:58key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(371,413) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:59key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(371,434) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:60key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(392,392) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:61key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(392,413) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:62key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(392,434) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:63key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(371,455) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:64key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(259,343) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:65key" >
+								<circle cx="76" cy="76" r="76" fill-opacity="0.6" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(252,441) rotate(180)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:66key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="none" stroke-width="1" fill="white" d="M0,0 c-42,-70 -126,-70 -161,0 M-161,0 c21,-84 133,-84 161,0"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(245,374.5) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:67key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="none" stroke-width="1" fill="white" d="M0,0 c21,-84 154,-84 182,0 M182,0 c-42,-70 -147,-70 -182,0"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(364,294) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:68key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="0.7" stroke="none" stroke-width="1" fill="white" d="M0,0  l0,28  l-28,0  l-28,0  l0,-28 M-56,0 c14,-7 42,-7 56,0"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(476,476) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:69key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-2" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="2" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(504,476) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:70key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-3" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="3" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(532,476) rotate(0)  scale(2)" >
+							<g id="OpenVBBLibVB.Drawing.PinConnect:71key"  stroke="black"  stroke-width="1" >
+								<g id="Pin-4" >
+									<circle cx="0" cy="0" r="0" stroke-width="1" stroke="black"/>
+								</g>
+								<rect x="-7" y="-7" width="14" height="14" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+								<polygon points="-5,5 5,5 3,3 -3,3 " stroke="none" strokewidth="1" fill="rgb(90,90,90)"/>
+								<polygon points="-5,-5 5,-5 3,-3 -3,-3 " stroke="none" strokewidth="1" fill="rgb(42,42,42)"/>
+								<polygon points="-5,5 -3,3 -3,-3 -5,-5 " stroke="none" strokewidth="1" fill="rgb(55,55,55)"/>
+								<polygon points="5,5 3,3 3,-3 5,-5 " stroke="none" strokewidth="1" fill="rgb(72,72,72)"/>
+								<rect x="-3" y="-3" width="6" height="6" stroke="none" stroke-width="1" fill="black"/>
+								<pin x="0" y="0" pin="4" index="0"/>
+							</g>
+						</g>
+						<g   transform="translate(462,462) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:72key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="16" stroke="white" writing-mode="lr">Vcc</text>
+							</g>
+						</g>
+						<g   transform="translate(490,462) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:73key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="16" stroke="white" writing-mode="lr">Trig</text>
+							</g>
+						</g>
+						<g   transform="translate(518,462) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:74key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="16" stroke="white" writing-mode="lr">Echo</text>
+							</g>
+						</g>
+						<g   transform="translate(546,462) rotate(270)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:75key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="16" stroke="white" writing-mode="lr">Gnd</text>
+							</g>
+						</g>
+						<g   transform="translate(420,350) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Text:76key"  stroke="black"  stroke-width="1" >
+								<text x="0" y="0" font-family="Verdana" font-size="20" stroke="white" writing-mode="lr">HC-SR04</text>
+							</g>
+						</g>
+						<g   transform="translate(238,469) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:77key" >
+								<circle cx="12" cy="12" r="12" fill-opacity="1" stroke="none" stroke-width="1" fill="#A4C639"/>
+							</g>
+						</g>
+						<g   transform="translate(238,266) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:78key" >
+								<circle cx="12" cy="12" r="12" fill-opacity="1" stroke="none" stroke-width="1" fill="#A4C639"/>
+							</g>
+						</g>
+						<g   transform="translate(549.5,392) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:168key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(64,96,64)" d="M0,0 c0,-133 189,-133 189,0"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(546,311.5) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:169key" >
+								<circle cx="98" cy="98" r="98" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(164,164,164)"/>
+							</g>
+						</g>
+						<g   transform="translate(563.5,332.5) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:170key" >
+								<circle cx="80" cy="80" r="80" fill-opacity="1" stroke="black" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(581,343) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:171key" >
+								<circle cx="64" cy="64" r="64" fill-opacity="1" stroke="none" stroke-width="1" fill="goldenrod"/>
+							</g>
+						</g>
+						<g   transform="translate(595,357) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:172key" >
+								<circle cx="50" cy="50" r="50" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(64,64,64)"/>
+							</g>
+						</g>
+						<g   transform="translate(595,360.5) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:173key" >
+								<circle cx="50" cy="50" r="50" fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(224,224,224)"/>
+							</g>
+						</g>
+						<g   transform="translate(595,371) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:174key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(616,371) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:175key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(658,371) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:176key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(637,371) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:177key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(637,392) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:178key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(574,392) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:179key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.1" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(595,392) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:180key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(616,392) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:181key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(637,413) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:182key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(574,413) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:183key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.1" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(595,413) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:184key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(616,413) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:185key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(637,434) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:186key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(574,434) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:187key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.1" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(595,434) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:188key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(616,434) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:189key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(658,455) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:190key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(595,455) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:191key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(616,455) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:192key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(637,455) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:193key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(616,476) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:194key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(637,476) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:195key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(658,476) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:196key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(616,350) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:197key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(637,350) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:198key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(658,350) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:199key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(658,392) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:200key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(658,413) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:201key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(658,434) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:202key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(679,371) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:203key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(679,392) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:204key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(679,413) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:205key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(679,434) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:206key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(700,392) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:207key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(700,413) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:208key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(700,434) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:209key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(679,455) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Rectangle:210key" >
+								<path d="M0,0 l0,14 l14,0  l0,-14 l-14,0" fill-opacity="0.2" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(567,343) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:211key" >
+								<circle cx="76" cy="76" r="76" fill-opacity="0.6" stroke="none" stroke-width="1" fill="black"/>
+							</g>
+						</g>
+						<g   transform="translate(560,441) rotate(180)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:212key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="none" stroke-width="1" fill="white" d="M0,0 c-42,-70 -126,-70 -161,0 M-161,0 c21,-84 133,-84 161,0"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(553,374.5) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:213key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="1" stroke="none" stroke-width="1" fill="white" d="M0,0 c21,-84 154,-84 182,0 M182,0 c-42,-70 -147,-70 -182,0"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(672,294) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Path:214key" >
+								<g   transform="translate(0,0) rotate(0)  scale(1)" >
+									<g  >
+										<path fill-opacity="0.7" stroke="none" stroke-width="1" fill="white" d="M0,0  l0,28  l-28,0  l-28,0  l0,-28 M-56,0 c14,-7 42,-7 56,0"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g   transform="translate(714,469) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:215key" >
+								<circle cx="12" cy="12" r="12" fill-opacity="1" stroke="none" stroke-width="1" fill="#A4C639"/>
+							</g>
+						</g>
+						<g   transform="translate(714,266) rotate(0)  scale(1)" >
+							<g id="OpenVBBLibVB.Drawing.Circle:216key" >
+								<circle cx="12" cy="12" r="12" fill-opacity="1" stroke="none" stroke-width="1" fill="#A4C639"/>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g   transform="translate(-175,-112) rotate(0)  scale(0.5)" >
+					<rect x="0" y="0" width="98" height="250" stroke="rgb(64,64,64)" stroke-width="1" fill="rgb(192,192,192)"/>
+					<g   transform="translate(0,39.6825408935547) rotate(0)  scale(1)" >
+						<rect x="0" y="0" width="98" height="10" stroke="black" stroke-width="1" fill="rgb(64,64,64)"/>
+					</g>
+				</g>
+				<g   transform="translate(21,-196) rotate(0)  scale(1)" >
+					<g id="Design" >
+						<g   transform="translate(-490,-84) rotate(0)  scale(1)" >
+							<g id="COMPONENTS" >
+								<g   transform="translate(371,7) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:11key" >
+										<path d="M0,0 l0,300 l482,0  l0,-300 l-482,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(160,160,160)"/>
+									</g>
+								</g>
+								<g   transform="translate(584.5,108.5) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:12key" >
+										<path d="M0,0 l0,42 l49,0  l0,-42 l-49,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(374.5,10.5) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:79key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(427,10.5) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:80key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(427,31.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:81key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(427,10.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:82key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(479.5,10.5) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:83key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(479.5,31.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:84key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(479.5,10.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:85key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(532,10.5) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:86key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(532,31.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:87key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(532,10.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:88key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(402.5,35) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:89key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(402.5,56) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:90key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(402.5,35) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:91key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(455,35) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:92key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(455,56) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:93key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(455,35) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:94key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(507.5,35) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:95key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(507.5,56) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:96key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(507.5,35) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:97key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(560,35) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:98key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(560,56) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:99key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(560,35) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:100key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(374.5,59.5) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:101key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(374.5,80.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:102key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(374.5,59.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:103key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(427,59.5) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:104key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(427,80.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:105key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(427,59.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:106key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(479.5,59.5) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:107key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(479.5,80.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:108key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(479.5,59.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:109key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(532,59.5) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:110key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(532,80.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:111key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(532,59.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:112key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(402.5,84) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:113key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(402.5,105) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:114key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(402.5,84) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:115key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(455,84) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:116key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(455,105) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:117key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(455,84) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:118key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(507.5,84) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:119key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(507.5,105) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:120key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(507.5,84) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:121key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(560,84) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:122key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(560,105) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:123key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(560,84) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:124key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(374.5,108.5) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:125key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(374.5,129.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:126key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(374.5,108.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:127key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(427,108.5) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:128key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(427,129.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:129key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(427,108.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:130key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(479.5,108.5) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:131key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(479.5,129.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:132key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(479.5,108.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:133key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(532,108.5) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:134key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(532,129.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:135key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(532,108.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:136key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(402.5,133) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:137key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(402.5,154) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:138key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(402.5,133) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:139key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(455,133) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:140key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(455,154) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:141key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(455,133) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:142key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(507.5,133) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:143key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(507.5,154) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:144key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(507.5,133) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:145key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(560,133) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:146key" >
+										<path d="M0,0 l0,42 l98,0  l0,-42 l-98,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(560,154) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:147key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(560,133) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:148key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(584.5,10.5) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:149key" >
+										<path d="M0,0 l0,42 l49,0  l0,-42 l-49,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(584.5,31.5) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Path:150key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l7,-7  l35,0  l7,7  l-49,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(584.5,10.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:151key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(584.5,59.5) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:152key" >
+										<path d="M0,0 l0,42 l49,0  l0,-42 l-49,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(584.5,80.5) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Path:153key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l7,-7  l35,0  l7,7  l-49,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(584.5,59.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:154key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(584.5,129.5) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Path:155key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l7,-7  l35,0  l7,7  l-49,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(584.5,108.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:156key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(374.5,133) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:157key" >
+										<path d="M0,0 l0,42 l49,0  l0,-42 l-49,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(374.5,84) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:158key" >
+										<path d="M0,0 l0,42 l49,0  l0,-42 l-49,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(374.5,35) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Rectangle:159key" >
+										<path d="M0,0 l0,42 l49,0  l0,-42 l-49,0" fill-opacity="1" stroke="black" stroke-width="2" fill="rgb(230,25,26)"/>
+									</g>
+								</g>
+								<g   transform="translate(374.5,133) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:160key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(374.5,154) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Path:161key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l7,-7  l35,0  l7,7  l-49,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(374.5,105) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Path:162key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l7,-7  l35,0  l7,7  l-49,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(374.5,84) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:163key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(374.5,56) rotate(0)  scale(0.5)" >
+									<g id="OpenVBBLibVB.Drawing.Path:164key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l7,-7  l35,0  l7,7  l-49,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(374.5,35) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:165key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(374.5,10.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:166key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(244,152,165)" d="M0,0  l14,14  l0,56  l-14,14  l0,-84"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g   transform="translate(374.5,31.5) rotate(0)  scale(0.25)" >
+									<g id="OpenVBBLibVB.Drawing.Path:167key" >
+										<g   transform="translate(0,0) rotate(0)  scale(1)" >
+											<g  >
+												<path fill-opacity="1" stroke="none" stroke-width="1" fill="rgb(186,20,26)" d="M0,0  l14,-14  l168,0  l14,14  l-196,0"/>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g   transform="translate(0,0) rotate(0)  scale(0.5)" >
+					<image x="14" y="-98" width="55" height="55" href="data:image/png;base64, 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"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="NETLIST_REPRESENTATION" stroke="blue" stroke-width="1">
+		<g czoom="1" stroke="purple" virtual="False" stroke-width="3">
+			<line x1="378" y1="182" x2="378" y2="266" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="378" y1="266" x2="224" y2="266" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="224" y1="266" x2="224" y2="322" width="3" layer="" markup="thicken"  />
+ 
+			</g>
+		<g czoom="1" stroke="blue" virtual="False" stroke-width="3">
+			<line x1="364" y1="182" x2="364" y2="280" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="364" y1="280" x2="238" y2="280" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="238" y1="280" x2="238" y2="322" width="3" layer="" markup="thicken"  />
+ 
+			</g>
+		<g czoom="1" stroke="white" virtual="False" stroke-width="3">
+			<line x1="350" y1="182" x2="350" y2="294" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="350" y1="294" x2="252" y2="294" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="252" y1="294" x2="252" y2="322" width="3" layer="" markup="thicken"  />
+ 
+			</g>
+		<g czoom="1" stroke="yellow" virtual="False" stroke-width="3">
+			<line x1="336" y1="182" x2="336" y2="252" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="336" y1="252" x2="266" y2="252" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="266" y1="252" x2="266" y2="322" width="3" layer="" markup="thicken"  />
+ 
+			</g>
+		<g czoom="1" stroke="orange" virtual="False" stroke-width="3">
+			<line x1="210" y1="182" x2="210" y2="238" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="210" y1="238" x2="280" y2="238" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="280" y1="238" x2="280" y2="322" width="3" layer="" markup="thicken"  />
+ 
+			</g>
+		<g czoom="1" stroke="green" virtual="False" stroke-width="3">
+			<line x1="224" y1="182" x2="224" y2="224" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="224" y1="224" x2="308" y2="224" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="308" y1="224" x2="308" y2="322" width="3" layer="" markup="thicken"  />
+ 
+			</g>
+		<g czoom="1" stroke="black" virtual="False" stroke-width="3">
+			<line x1="238" y1="182" x2="238" y2="252" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="238" y1="252" x2="196" y2="252" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="196" y1="252" x2="196" y2="322" width="3" layer="" markup="thicken"  />
+ 
+			</g>
+		<g czoom="1" stroke="red" virtual="False" stroke-width="3">
+			<line x1="798" y1="350" x2="798" y2="616" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="798" y1="616" x2="266" y2="616" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="266" y1="616" x2="266" y2="588" width="3" layer="" markup="thicken"  />
+ 
+			</g>
+		<g czoom="1" stroke="black" virtual="False" stroke-width="3">
+			<line x1="840" y1="350" x2="840" y2="644" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="840" y1="644" x2="294" y2="644" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="294" y1="644" x2="294" y2="588" width="3" layer="" markup="thicken"  />
+ 
+			</g>
+		<g czoom="1" stroke="gray" virtual="False" stroke-width="3">
+			<line x1="826" y1="350" x2="826" y2="392" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="826" y1="392" x2="462" y2="392" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="462" y1="392" x2="462" y2="294" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="462" y1="294" x2="364" y2="294" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="364" y1="294" x2="364" y2="322" width="3" layer="" markup="thicken"  />
+ 
+			</g>
+		<g czoom="1" stroke="brown" virtual="False" stroke-width="3">
+			<line x1="812" y1="350" x2="812" y2="378" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="812" y1="378" x2="476" y2="378" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="476" y1="378" x2="476" y2="280" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="476" y1="280" x2="378" y2="280" width="3" layer="" markup="thicken"  />
+ 
+			<line x1="378" y1="280" x2="378" y2="322" width="3" layer="" markup="thicken"  />
+ 
+			</g>
+	</g>
+	<g id="JUNCTIONS" stroke="black" fill="black">
+	</g>
+</g> </svg>
