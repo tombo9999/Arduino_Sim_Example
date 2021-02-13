@@ -32,11 +32,9 @@ void loop()
 {
 	cm = 0.01722 * readUltrasonicDistance(2, 3);
 	inches = (cm / 2.54);
-  /* 
 	Serial.print(inches, 1);
 	Serial.print("\t");
 	Serial.println(cm, 1);
-  */
 	lcd.setCursor(0,0);
 	lcd.print("Inches");
 	lcd.setCursor(4,0);
